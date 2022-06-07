@@ -60,7 +60,7 @@ const animationStates = [
     name: 'getHit',
     frames: 4,
   }
-];
+]; 
 animationStates.forEach((state, index) => {
   let frames = {
     loc: [],
